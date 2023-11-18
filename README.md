@@ -36,7 +36,7 @@ WHERE
 
 ![image](https://github.com/Saraiana/SQLeVOSviewer/assets/102194276/6504ff5a-5f2e-4493-bc94-8b64ea1fd945)
 
-Resultado da análise no VOSviewer, cnosiderando a maior ocorrência de termos: 
+Resultado da análise no VOSviewer, considerando a maior ocorrência de termos: 
 
 ![image](https://github.com/Saraiana/SQLeVOSviewer/assets/102194276/2de44cf3-9951-4ed1-a2ee-a1a34503a0f4)
 
