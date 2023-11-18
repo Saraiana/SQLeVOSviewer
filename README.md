@@ -1,7 +1,7 @@
 # SQLeVOSviewer
 Consulta SQL no BigQuery para explorações bibliográficas no VOS Viewer - programa de visualização e de análise de dados bibliométricos. 
 
-# Consulta que retornou a lista de DOIs de trabalhos para cada programa de uma entidade (Instituição de Ensino Superior): 
+# Consulta que retornou a lista de DOIs de trabalhos para cada programa de uma entidade (Instituição de Ensino Superior)
 
 SELECT
 
